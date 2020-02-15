@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\bin\Debug\Kitap İndirim Hesaplama.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\bin\Debug\Kitap İndirim Hesaplama.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\bin\Debug\Kitap İndirim Hesaplama.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap İndirim Hesaplama.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap_İndirim_Hesaplama.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap_İndirim_Hesaplama.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap İndirim Hesaplama.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap İndirim Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap İndirim Hesaplama.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Kitap İndirim Hesaplama\Kitap İndirim Hesaplama\obj\Debug\Kitap İndirim Hesaplama.pdb
